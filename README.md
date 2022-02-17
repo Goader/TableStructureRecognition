@@ -1,4 +1,4 @@
-# DPTesseract
+# Table Structure Recognition
 
 ## Running docker container
 
